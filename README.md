@@ -1,2 +1,2 @@
-# nrh-mayur-home-tuition-viuro
+# nrh-home-tuition-viuro
 my websit for home tuations 
